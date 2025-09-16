@@ -24,7 +24,7 @@ Este projeto tem como objetivo a análise de dados de filmes para auxiliar o est
 1. Efetuar a clonagem de repositório:
 
 ```bash
-git clone <URL_REPO>
+git clone https://github.com/Marcus-V-Couto/desafio-filmes
 cd desafio-filmes
 ```
 
@@ -85,4 +85,4 @@ Modelo elaborado em Random Forest Regressor por meio da aplicação de:
 
 ## Autoria
 - Nome: Marcus Vinícius Gonçalves de Souza Couto
-- Contato: 
+- Contato: marcusvinicius-couto@hotmail.com
