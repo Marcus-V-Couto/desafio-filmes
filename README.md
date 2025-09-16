@@ -45,7 +45,7 @@ pip install -r requirements.txt
 4. Abrir e executar o notebook:
 
 ```bash
-jupyter notebook notebooks/algorimo_eda_modelagem.ipynb
+jupyter notebook notebooks/algoritmo_eda_modelagem.ipynb
 ```
 
 5. Saída Principal:
